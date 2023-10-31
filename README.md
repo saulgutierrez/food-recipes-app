@@ -9,3 +9,5 @@ Technologies used:
 <li>Javascript</li>
 <li>FontAwesome</li>
 <li>Google Fonts</li>
+
+![image](https://github.com/saulgutierrez/food-recipes-app/assets/62368834/dbb1bcc2-013f-46bc-bddf-cd7a11ba3577)
